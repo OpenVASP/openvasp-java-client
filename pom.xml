@@ -33,7 +33,7 @@
         <logback.version>1.2.3</logback.version>
         <web3j.version>4.5.18</web3j.version>
         <okhttp3.version>4.3.1</okhttp3.version>
-        <jackson.version>2.10.4</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <guice.version>4.2.3</guice.version>
         <junit-jupiter.version>5.6.0</junit-jupiter.version>
         <assertj.version>3.15.0</assertj.version>
